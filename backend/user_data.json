@@ -1,0 +1,26 @@
+{
+    "Makarand": {
+        "password": "1f25436d55db9645591e9a927162c0e8ff288f7eb386a3623d4f0bd8b1c721cc",
+        "secret_key": "gAAAAABoLhUKeGA7U_laKTYgbbZGVLsi0wbFEn6U_VN7ZIkrXZmbGa9HAq6W8BY2ZFC-NIUe_kohy_kV0yu8Ors1kS795gJ1CA==",
+        "role": "admin",
+        "face_id": "Makarand_face.png"
+    },
+    "Kartik": {
+        "password": "7f27113d589fce5491719872609fce8b2ca2d38d4965642fd897c3d54c4288eb",
+        "secret_key": "gAAAAABoLhgZQ03VSBKUClMVFDagI-u6rMsoMDnzanFjga6Xl-m3lS6D7XlEXzDSgY7QSmk1w7KPqADmOQ2A-ruVw9lzedEC_g==",
+        "role": "staff",
+        "face_id": "Kartik_face.png"
+    },
+    "Abhinav_DC": {
+        "password": "bd883e01495c2b9d8b75866d07628b7f2994e3659fb139ee12fd06bdbb9323e1",
+        "secret_key": "gAAAAABoLhtrMizTYugM35rzVfhEHSY9EUGCTAQNbBfzYuozSHncz8oOroFvL1-ZBgrIcbR5D1yZJGTHSmuP1z6korJimXbmNw==",
+        "role": "user",
+        "face_id": "Abhinav_DC_face.png"
+    },
+    "Paras": {
+        "password": "939404767c05fbfe41ca856c11913148dd2a2ce013dae49c51335b9a5ffffba0",
+        "secret_key": "gAAAAABoLh5IczvPMWe40YKU7Zz8hXYcozIqQ2AAe4vfVkU4pN-5I0a4vg9pB34HBP0C8nZ1kR4vOIvviy7Xl-blolqYaMusoA==",
+        "role": "user",
+        "face_id": "Paras_face.png"
+    }
+}

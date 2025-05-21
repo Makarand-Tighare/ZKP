@@ -1,0 +1,75 @@
+[
+    {
+        "index": 0,
+        "timestamp": 1747853176.5489268,
+        "data": {
+            "message": "Genesis Block for ZKP Authentication System"
+        },
+        "previous_hash": "0",
+        "hash": "d937a518b728b97e0fde32874001900a092887a39f0695625fda9cbeef0deb42"
+    },
+    {
+        "index": 1,
+        "timestamp": 1747853310.8009338,
+        "data": {
+            "type": "LOGIN_SUCCESS",
+            "username": "Abhinav_DC",
+            "timestamp": 1747853310.8009148,
+            "details": {
+                "role": "user",
+                "auth_method": "ZKP-only",
+                "used_facial_recognition": false,
+                "ip_address": "127.0.0.1"
+            }
+        },
+        "previous_hash": "d937a518b728b97e0fde32874001900a092887a39f0695625fda9cbeef0deb42",
+        "hash": "4d0d1d3fcae3084da7cfa25c7f34128fb22b9b6de13729ef231465bd3eeb0baf"
+    },
+    {
+        "index": 2,
+        "timestamp": 1747853310.8113403,
+        "data": {
+            "type": "ZKP_VERIFICATION",
+            "username": "Abhinav_DC",
+            "timestamp": 1747853310.8113284,
+            "details": {
+                "verified": true,
+                "ip_address": "127.0.0.1"
+            }
+        },
+        "previous_hash": "4d0d1d3fcae3084da7cfa25c7f34128fb22b9b6de13729ef231465bd3eeb0baf",
+        "hash": "9aa1088775b7436331a98b84895be1bf937ef7a9dde68cfd76ecd64a6111e670"
+    },
+    {
+        "index": 3,
+        "timestamp": 1747853343.570204,
+        "data": {
+            "type": "LOGIN_SUCCESS",
+            "username": "Makarand",
+            "timestamp": 1747853343.570201,
+            "details": {
+                "role": "admin",
+                "auth_method": "ZKP-only",
+                "used_facial_recognition": false,
+                "ip_address": "127.0.0.1"
+            }
+        },
+        "previous_hash": "9aa1088775b7436331a98b84895be1bf937ef7a9dde68cfd76ecd64a6111e670",
+        "hash": "c4a720cd5f11954713802aeff17430ba0c43ed840531128987b5e68c9889534c"
+    },
+    {
+        "index": 4,
+        "timestamp": 1747853343.5812173,
+        "data": {
+            "type": "ZKP_VERIFICATION",
+            "username": "Makarand",
+            "timestamp": 1747853343.5811896,
+            "details": {
+                "verified": true,
+                "ip_address": "127.0.0.1"
+            }
+        },
+        "previous_hash": "c4a720cd5f11954713802aeff17430ba0c43ed840531128987b5e68c9889534c",
+        "hash": "29c2cb430298cc67021661756d767ff982b33b9cebea784a41c77841605ab400"
+    }
+]

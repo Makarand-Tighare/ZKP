@@ -1,0 +1,46 @@
+# ZKP Backend Activity Logs
+[2025-05-21 23:31:46] Makarand: Registered
+[2025-05-21 23:31:53] Makarand: Login successful
+[2025-05-21 23:31:53] Makarand: Identity verified
+[2025-05-21 23:32:01] Makarand: Identity verified
+[2025-05-21 23:34:56] Makaran: Login failed - User not found
+[2025-05-21 23:35:08] Makarand: Login successful
+[2025-05-21 23:35:08] Makarand: Identity verified
+[2025-05-21 23:36:45] Makarand: Login successful
+[2025-05-21 23:36:45] Makarand: Identity verified
+[2025-05-21 23:44:49] Kartik: Registered with role: user
+[2025-05-21 23:45:32] system: Login attempt failed - No password provided
+[2025-05-21 23:45:38] Makarand: Using ZKP-only authentication (password check skipped)
+[2025-05-21 23:45:39] Makarand: Login successful as admin using ZKP-only authentication
+[2025-05-21 23:45:39] Makarand: Identity verified
+[2025-05-21 23:45:47] Makarand: Identity verified
+[2025-05-21 23:45:58] Makarand: Changed role of Kartik to staff
+[2025-05-21 23:46:09] Kartik: Using ZKP-only authentication (password check skipped)
+[2025-05-21 23:46:09] Kartik: Login successful as staff using ZKP-only authentication
+[2025-05-21 23:46:09] Kartik: Identity verified
+[2025-05-21 23:47:34] Makarand: Using ZKP-only authentication (password check skipped)
+[2025-05-21 23:47:34] Makarand: Login successful as admin using ZKP-only authentication
+[2025-05-21 23:47:34] Makarand: Identity verified
+[2025-05-21 23:57:32] Makarand: Using ZKP-only authentication (password check skipped)
+[2025-05-21 23:57:32] Makarand: Login successful as admin using ZKP-only authentication
+[2025-05-21 23:57:32] Makarand: Identity verified
+[2025-05-21 23:57:46] Makarand: Identity verified
+[2025-05-21 23:58:59] Abhinav_DC: Registered with role: user
+[2025-05-21 23:59:23] Abhinav_DC: Using ZKP-only authentication (password check skipped)
+[2025-05-21 23:59:23] Abhinav_DC: Login successful as user using ZKP-only authentication
+[2025-05-21 23:59:23] Abhinav_DC: Identity verified
+[2025-05-22 00:03:03] Abhinav_DC: Using ZKP-only authentication (password check skipped)
+[2025-05-22 00:03:03] Abhinav_DC: Login successful as user using ZKP-only authentication
+[2025-05-22 00:03:03] Abhinav_DC: Identity verified
+[2025-05-22 00:06:34] Abhinav_DC: Login successful as user using standard authentication
+[2025-05-22 00:06:34] Abhinav_DC: Identity verified
+[2025-05-22 00:11:12] Paras: Registered with role: user
+[2025-05-22 00:11:19] Paras: Using ZKP-only authentication (password check skipped)
+[2025-05-22 00:11:19] Paras: Login successful as user using ZKP-only authentication
+[2025-05-22 00:11:19] Paras: Identity verified
+[2025-05-22 00:18:30] Abhinav_DC: Using ZKP-only authentication (password check skipped)
+[2025-05-22 00:18:30] Abhinav_DC: Login successful as user using ZKP-only authentication
+[2025-05-22 00:18:30] Abhinav_DC: ZKP verification successful
+[2025-05-22 00:19:03] Makarand: Using ZKP-only authentication (password check skipped)
+[2025-05-22 00:19:03] Makarand: Login successful as admin using ZKP-only authentication
+[2025-05-22 00:19:03] Makarand: ZKP verification successful
